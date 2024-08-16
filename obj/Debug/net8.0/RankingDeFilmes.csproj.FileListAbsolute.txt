@@ -1,0 +1,14 @@
+D:\main\C#\RankingDeFilmes\bin\Debug\net8.0\RankingDeFilmes.exe
+D:\main\C#\RankingDeFilmes\bin\Debug\net8.0\RankingDeFilmes.deps.json
+D:\main\C#\RankingDeFilmes\bin\Debug\net8.0\RankingDeFilmes.runtimeconfig.json
+D:\main\C#\RankingDeFilmes\bin\Debug\net8.0\RankingDeFilmes.dll
+D:\main\C#\RankingDeFilmes\bin\Debug\net8.0\RankingDeFilmes.pdb
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.AssemblyInfoInputs.cache
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.AssemblyInfo.cs
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.csproj.CoreCompileInputs.cache
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.dll
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\refint\RankingDeFilmes.dll
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.pdb
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\RankingDeFilmes.genruntimeconfig.cache
+D:\main\C#\RankingDeFilmes\obj\Debug\net8.0\ref\RankingDeFilmes.dll

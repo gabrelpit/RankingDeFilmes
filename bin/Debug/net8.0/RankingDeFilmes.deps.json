@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RankingDeFilmes/1.0.0": {
+        "runtime": {
+          "RankingDeFilmes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RankingDeFilmes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
